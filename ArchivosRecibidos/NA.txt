@@ -1,0 +1,2 @@
+Este archivo no contiene nada.
+Solo se usa para crear la carpeta ArchivosRecibidos en el respositorio.

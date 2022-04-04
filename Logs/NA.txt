@@ -1,0 +1,2 @@
+Este archivo no contiene información.
+Solo fue creado para crear la carpeta Logs en el repositorio.
