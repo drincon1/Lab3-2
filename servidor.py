@@ -7,7 +7,8 @@ import threading
 from datetime import datetime
 import time
 
-IP = 'localhost'
+#IP = 'localhost'
+IP = '172.16.21.129'
 PORT = 7000
 ruta_archivo = ""
 barrier = None
