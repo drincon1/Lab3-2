@@ -7,7 +7,8 @@ from datetime import datetime
 import time
 
 # ATRIBUTOS
-IP = 'localhost'
+#IP = 'localhost'
+IP = '172.16.21.129'
 PORT = 7000
 num_clientes = 0
 tam_archivo = 0
